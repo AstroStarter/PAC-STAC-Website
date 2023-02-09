@@ -1,14 +1,15 @@
 {
-	"name": "astro-starter-template",
+	"name": "pac-stac-web",
 	"version": "0.0.1",
-	"description": "📄 Starter template for AstroJS.",
+	"description": "📄 Starter template for AstroJS on PAC-STAC.",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/lightrix/astro-starter-template.git"
+		"directory": "app/web",
+		"url": "https://github.com/astro-starters/PAC-STAC.git"
 	},
-	"homepage": "https://github.com/lightrix/astro-starter-template#readme",
+	"homepage": "https://github.com/astro-starters/PAC-STAC#readme",
 	"bugs": {
-		"url": "https://github.com/lightrix/astro-starter-template/issues"
+		"url": "https://github.com/astro-starters/PAC-STAC/issues"
 	},
 	"license": "MIT",
 	"private": false,
@@ -28,7 +29,7 @@
 		"@tailwindcss/forms": "0.5.3",
 		"@tailwindcss/line-clamp": "0.4.2",
 		"@tailwindcss/typography": "0.5.9",
-		"astro": "2.0.9",
+		"astro": "2.0.10",
 		"astro-compress": "1.1.32",
 		"astro-critters": "1.1.29",
 		"astro-rome": "0.1.7",
