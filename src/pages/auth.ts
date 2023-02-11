@@ -1,4 +1,6 @@
-import { AstroAuth, type AstroAuthConfig } from "auth-astro";
+import { AstroAuth } from "auth-astro";
+import type { AstroAuthConfig } from "auth-astro";
+
 import GitHub from "@auth/core/providers/github";
 import env from "@lib/env.js";
 
