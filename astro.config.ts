@@ -1,5 +1,6 @@
 // @ts-nocheck
 import { defineConfig } from "astro/config";
+import node from "@astrojs/node";
 
 import prefetch from "@astrojs/prefetch";
 import sitemap from "@astrojs/sitemap";
@@ -8,6 +9,7 @@ import critters from "astro-critters";
 import rome from "astro-rome";
 
 export default defineConfig({
+	output: "server",
 	// TODO Place your site URL here
 	// site: "",
 	integrations: [
@@ -17,4 +19,7 @@ export default defineConfig({
 		rome({ logger: 1 }),
 		compress({ logger: 1 }),
 	],
+	adapter: node({
+		mode: "standalone | middleware",
+	}),
 });
