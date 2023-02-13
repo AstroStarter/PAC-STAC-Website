@@ -1,11 +1,14 @@
+// @ts-nocheck
 import { defineConfig } from "astro/config";
 
 import node from "@astrojs/node";
-import prefetch from "@astrojs/prefetch";
-import sitemap from "@astrojs/sitemap";
+
 import compress from "astro-compress";
-import critters from "astro-critters";
 import rome from "astro-rome";
+import prefetch from "@astrojs/prefetch";
+import critters from "astro-critters";
+import sitemap from "@astrojs/sitemap";
+import worker from "astrojs-service-worker";
 
 // https://astro.build/config
 export default defineConfig({
@@ -13,6 +16,7 @@ export default defineConfig({
 	// TODO Place your site URL here
 	// site: "",
 	integrations: [
+		worker(),
 		sitemap(),
 		critters({ logger: 1 }),
 		prefetch(),

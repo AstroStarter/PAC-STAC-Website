@@ -34,6 +34,7 @@
 		"astro-compress": "1.1.32",
 		"astro-critters": "1.1.29",
 		"astro-rome": "0.1.7",
+		"astrojs-service-worker": "0.0.9",
 		"auth-astro": "1.0.5",
 		"autoprefixer": "10.4.13",
 		"cssnano": "5.1.14",
