@@ -1,5 +1,5 @@
-import { AstroAuth } from "auth-astro";
 import type { AstroAuthConfig } from "auth-astro";
+import { AstroAuth } from "auth-astro";
 
 // @ts-ignore
 import GitHub from "@auth/core/providers/github";
