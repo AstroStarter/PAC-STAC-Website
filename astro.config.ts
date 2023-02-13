@@ -1,8 +1,6 @@
 // @ts-nocheck
 import { defineConfig } from "astro/config";
 
-import node from "@astrojs/node";
-
 import compress from "astro-compress";
 import rome from "astro-rome";
 import prefetch from "@astrojs/prefetch";
