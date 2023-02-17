@@ -11,8 +11,7 @@ import worker from "astrojs-service-worker";
 // https://astro.build/config
 export default defineConfig({
 	output: "server",
-	// TODO Place your site URL here
-	// site: "",
+	site: "https://nikolahristov.tech",
 	integrations: [
 		worker(),
 		sitemap(),
