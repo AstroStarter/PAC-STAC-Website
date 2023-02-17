@@ -1,5 +1,5 @@
-# [nikolahristov.tech] 🧑🏻
+# [pac-stac-web] 📄
 
-Nikola Hristov main website.
+Starter template for AstroJS on PAC-STAC.
 
-[nikolahristov.tech]: https://nikolahristov.tech
+[pac-stac-web]: https://npmjs.org/pac-stac-web
