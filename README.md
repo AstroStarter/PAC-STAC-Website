@@ -2,4 +2,4 @@
 
 Starter template for AstroJS on PAC-STAC.
 
-[pac-stac-web]: https://npmjs.org/pac-stac-web
+[pac-stac-web]: https://github.com/astro-starters/pac-stac-web
