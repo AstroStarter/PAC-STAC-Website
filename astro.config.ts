@@ -9,11 +9,10 @@ import critters from "astro-critters";
 import sitemap from "@astrojs/sitemap";
 import worker from "astrojs-service-worker";
 
-// https://astro.build/config
 export default defineConfig({
-	output: "server",
 	// TODO Place your site URL here
 	// site: "",
+	output: "server",
 	integrations: [
 		worker(),
 		sitemap(),
