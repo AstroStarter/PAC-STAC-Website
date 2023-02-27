@@ -14,7 +14,8 @@
 	"private": false,
 	"keywords": [
 		"astro",
-		"starter"
+		"starter",
+		"pac-stac"
 	],
 	"scripts": {
 		"build": "astro check && astro build",
