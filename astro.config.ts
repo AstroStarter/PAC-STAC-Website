@@ -14,7 +14,7 @@ export default defineConfig({
 	// site: "",
 	output: "server",
 	integrations: [
-		worker(),
+		import.meta.env.MODE === "production" ? worker() : null,
 		sitemap(),
 		critters({ logger: 1 }),
 		prefetch(),
