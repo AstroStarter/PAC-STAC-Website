@@ -25,7 +25,7 @@
 		"@astrojs/node": "5.0.4",
 		"@astrojs/prefetch": "0.1.2",
 		"@astrojs/sitemap": "1.1.0",
-		"@auth/core": "0.5.0",
+		"@auth/core": "0.5.1",
 		"@lightrix/config": "0.0.7",
 		"@tailwindcss/aspect-ratio": "0.4.2",
 		"@tailwindcss/forms": "0.5.3",
@@ -49,7 +49,7 @@
 		"postcss-reporter": "7.0.5",
 		"postcss-url": "10.1.3",
 		"tailwindcss": "3.2.7",
-		"zod": "3.20.6"
+		"zod": "3.21.0"
 	},
 	"publishConfig": {
 		"access": "public"
