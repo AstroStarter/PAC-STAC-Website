@@ -1,5 +1,4 @@
 // @ts-nocheck
-import node from "@astrojs/node";
 import { defineConfig } from "astro/config";
 
 import prefetch from "@astrojs/prefetch";
@@ -12,7 +11,6 @@ import worker from "astrojs-service-worker";
 export default defineConfig({
 	// TODO Place your site URL here
 	// site: "",
-	output: "server",
 	integrations: [
 		import.meta.env.MODE === "production" ? worker() : null,
 		sitemap(),
@@ -21,7 +19,4 @@ export default defineConfig({
 		rome({ logger: 1 }),
 		compress({ logger: 1 }),
 	],
-	adapter: node({
-		mode: "standalone | middleware",
-	}),
 });
