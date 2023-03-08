@@ -22,7 +22,10 @@
 		"start": "astro dev"
 	},
 	"devDependencies": {
+<<<<<<< HEAD
 		"@astrojs/node": "5.1.0",
+=======
+>>>>>>> upstream/main
 		"@astrojs/prefetch": "0.2.0",
 		"@astrojs/sitemap": "1.2.0",
 		"@lightrix/config": "0.0.7",
