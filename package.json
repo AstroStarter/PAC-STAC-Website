@@ -41,15 +41,7 @@
 		"cssnano": "6.0.1",
 		"cssnano-preset-advanced": "6.0.1",
 		"dotenv": "16.3.1",
-<<<<<<< HEAD
 		"firebase": "10.0.0",
-=======
-<<<<<<< HEAD
-		"firebase": "10.0.0",
-=======
-		"firebase": "9.23.0",
->>>>>>> 39aa751aa7cfef9d9988e945bd8528b64ff86a84
->>>>>>> 47dc68b3366001920b8c46c4b5a635b2858387ff
 		"postcss": "8.4.25",
 		"postcss-combine-duplicated-selectors": "10.0.3",
 		"postcss-combine-media-query": "1.0.1",
