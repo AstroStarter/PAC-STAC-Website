@@ -42,25 +42,6 @@
 		"cssnano-preset-advanced": "6.0.1",
 		"dotenv": "16.3.1",
 		"firebase": "10.0.0",
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-=======
-<<<<<<< HEAD
-		"firebase": "10.0.0",
-=======
-		"firebase": "9.23.0",
->>>>>>> 39aa751aa7cfef9d9988e945bd8528b64ff86a84
->>>>>>> 47dc68b3366001920b8c46c4b5a635b2858387ff
->>>>>>> 22422c62c1513576e58395505efabbf479e62459
->>>>>>> c8e07ec150673664a847d34806b06850b328cfeb
->>>>>>> 85dd72ccc805f6b7ee1d9757664841b2da7bfe60
->>>>>>> 77b7e37661eb270f5b419f062e0fcca6903c72cb
 		"postcss": "8.4.25",
 		"postcss-combine-duplicated-selectors": "10.0.3",
 		"postcss-combine-media-query": "1.0.1",
