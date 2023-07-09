@@ -12,11 +12,7 @@
 	},
 	"license": "MIT",
 	"private": false,
-<<<<<<< HEAD
 	"keywords": ["astro", "starter", "pac-stac"],
-=======
-	"keywords": ["astro", "starter"],
->>>>>>> upstream/main
 	"scripts": {
 		"build": "astro check && astro build",
 		"start": "astro dev"
