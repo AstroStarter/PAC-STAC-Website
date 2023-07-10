@@ -1,21 +1,13 @@
 {
-<<<<<<< HEAD
 	"name": "pac-stac-web",
 	"version": "0.0.1",
 	"private": false,
 	"description": "📄 Starter template for AstroJS on PAC-STAC.",
-=======
-	"name": "astro-starter-template",
-	"version": "0.0.1",
-	"private": false,
-	"description": "📄 Starter template for AstroJS.",
->>>>>>> upstream/main
 	"keywords": [
 		"astro",
 		"starter",
 		"pac-stac"
 	],
-<<<<<<< HEAD
 	"homepage": "https://github.com/astro-starters/pac-stac-web#readme",
 	"bugs": {
 		"url": "https://github.com/astro-starters/pac-stac-web/issues"
@@ -23,25 +15,6 @@
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/astro-starters/pac-stac-web.git"
-=======
-<<<<<<< HEAD
-	"homepage": "https://github.com/Lightrix/astro-starter-template#readme",
-	"bugs": {
-		"url": "https://github.com/Lightrix/astro-starter-template/issues"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/Lightrix/astro-starter-template.git"
-=======
-	"homepage": "https://github.com/Playform/blank-web-starter#readme",
-	"bugs": {
-		"url": "https://github.com/Playform/blank-web-starter/issues"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/Playform/blank-web-starter.git"
->>>>>>> upstream/main
->>>>>>> upstream/main
 	},
 	"license": "MIT",
 	"scripts": {
@@ -82,8 +55,4 @@
 	"publishConfig": {
 		"access": "public"
 	}
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> upstream/main
