@@ -8,21 +8,13 @@
 		"starter",
 		"pac-stac"
 	],
-<<<<<<< HEAD
 	"homepage": "https://github.com/astro-starters/pac-stac-web#readme",
-=======
-	"homepage": "https://github.com/Lightrix/astro-starter-template#readme",
->>>>>>> upstream/main
 	"bugs": {
 		"url": "https://github.com/astro-starters/pac-stac-web/issues"
 	},
 	"repository": {
 		"type": "git",
-<<<<<<< HEAD
 		"url": "https://github.com/astro-starters/pac-stac-web.git"
-=======
-		"url": "https://github.com/Lightrix/astro-starter-template.git"
->>>>>>> upstream/main
 	},
 	"license": "MIT",
 	"scripts": {
