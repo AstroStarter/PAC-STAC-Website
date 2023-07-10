@@ -19,6 +19,29 @@
 	"scripts": {
 		"build": "astro check && astro build",
 		"start": "astro dev"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+=======
+<<<<<<< HEAD
+		"url": "https://github.com/Lightrix/astro-starter-template/issues"
+=======
+		"url": "https://github.com/Playform/blank-web-starter/issues"
+	},
+	"license": "MIT",
+	"private": false,
+	"keywords": [
+		"astro",
+		"starter"
+	],
+	"scripts": {
+		"build": "astro check && astro build",
+		"start": "astro dev"
+>>>>>>> upstream/main
+>>>>>>> upstream/main
+>>>>>>> f8ea25595c8e5e71e363ddc7a28ee5b7fb7b9f90
+>>>>>>> c37d59bd5ab70a213ee05400ef30bd870c965944
 	},
 	"devDependencies": {
 		"@astrojs/prefetch": "0.2.3",
