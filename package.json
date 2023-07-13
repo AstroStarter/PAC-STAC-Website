@@ -30,7 +30,7 @@
 		"@swup/preload-plugin": "2.3.0",
 		"@swup/scroll-plugin": "2.0.3",
 		"@tailwindcss/aspect-ratio": "0.4.2",
-		"@tailwindcss/forms": "0.5.3",
+		"@tailwindcss/forms": "0.5.4",
 		"@tailwindcss/typography": "0.5.9",
 		"astro": "2.8.2",
 		"astro-compress": "1.1.49",
