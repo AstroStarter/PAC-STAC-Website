@@ -14,11 +14,7 @@
 	},
 	"repository": {
 		"type": "git",
-<<<<<<< HEAD
 		"url": "git+https://github.com/astro-starters/pac-stac-web.git"
-=======
-		"url": "git+https://github.com/Lightrix/astro-starter-template.git"
->>>>>>> upstream/main
 	},
 	"license": "MIT",
 	"scripts": {
