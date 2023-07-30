@@ -1,4 +1,3 @@
-// @ts-expect-error
 import SwupBodyClassPlugin from "@swup/body-class-plugin";
 import SwupPreloadPlugin from "@swup/preload-plugin";
 // @ts-expect-error
