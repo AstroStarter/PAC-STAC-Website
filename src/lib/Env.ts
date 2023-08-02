@@ -9,6 +9,5 @@ export default z
 		AUTH_TRUST_HOST: z.string().default(""),
 		GITHUB_ID: z.string().default(""),
 		GITHUB_SECRET: z.string().default(""),
-		GH_AUTH_TOKEN: z.string().default(""),
 	})
 	.parse(process.env);
