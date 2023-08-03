@@ -2,7 +2,12 @@
 	"name": "pac-stac-web",
 	"version": "0.0.1",
 	"private": false,
+<<<<<<< HEAD
 	"description": "📄 Starter template for AstroJS on PAC-STAC.",
+=======
+	"type": "module",
+	"description": "📄 Starter template for AstroJS.",
+>>>>>>> upstream/main
 	"keywords": [
 		"astro",
 		"starter",
