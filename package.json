@@ -17,7 +17,6 @@
 		"url": "git+https://github.com/astro-starters/pac-stac-web.git"
 	},
 	"license": "MIT",
-	"type": "module",
 	"scripts": {
 		"build": "astro check && astro build",
 		"start": "astro dev"
