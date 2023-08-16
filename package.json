@@ -8,13 +8,13 @@
 		"starter",
 		"pac-stac"
 	],
-	"homepage": "https://github.com/astro-starters/pac-stac-web#readme",
+	"homepage": "https://github.com/AstroStarter/pac-stac-web#readme",
 	"bugs": {
-		"url": "https://github.com/astro-starters/pac-stac-web/issues"
+		"url": "https://github.com/AstroStarter/pac-stac-web/issues"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/astro-starters/pac-stac-web.git"
+		"url": "git+https://github.com/AstroStarter/pac-stac-web.git"
 	},
 	"scripts": {
 		"build": "astro check && astro build",
