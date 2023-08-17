@@ -1,1 +1,1 @@
-// TODO: Use same schema as in pac-stac-content
+// TODO: Use same schema as in pac-stack-content

@@ -1,5 +1,5 @@
-# [pac-stac-web] 📄
+# [pac-stack-web] 📄
 
-Starter template for AstroJS on PAC-STAC.
+Starter template for AstroJS on PACStack.
 
-[pac-stac-web]: https://github.com/AstroStarter/pac-stac-web
+[pac-stack-web]: https://github.com/AstroStarter/pac-stack-web
