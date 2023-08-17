@@ -1,7 +1,7 @@
 {
 	"name": "pac-stack-web",
 	"version": "0.0.1",
-	"private": false,
+	"private": "false",
 	"description": "📄 Starter template for AstroJS on PACStack.",
 	"keywords": [
 		"astro",
@@ -17,6 +17,12 @@
 		"url": "git+https://github.com/AstroStarter/pac-stack-web.git"
 	},
 	"license": "MIT",
+	"author": {
+		"name": "Nikola Hristov",
+		"email": "nikola@nikolahristov.tech",
+		"url": "https://nikolahristov.tech"
+	},
+	"type": "module",
 	"scripts": {
 		"prepublishOnly": "astro check && astro build",
 		"start": "astro dev"
