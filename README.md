@@ -2,4 +2,4 @@
 
 Starter template for AstroJS on PACStack.
 
-[pac-stack-web]: https://github.com/AstroStarter/pac-stack-web
+[pac-stack-web]: https://github.com/AstroStarter/PACStack-web

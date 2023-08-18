@@ -6,15 +6,20 @@
 	"keywords": [
 		"astro",
 		"starter",
-		"pac-stack"
+		"pac-stack",
+		"pacstack",
+		"pac",
+		"payload",
+		"cloudflare",
+		"astro"
 	],
-	"homepage": "https://github.com/AstroStarter/pac-stack-web#readme",
+	"homepage": "https://github.com/AstroStarter/PACStack-web#readme",
 	"bugs": {
-		"url": "https://github.com/AstroStarter/pac-stack-web/issues"
+		"url": "https://github.com/AstroStarter/PACStack-web/issues"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/AstroStarter/pac-stack-web.git"
+		"url": "git+https://github.com/AstroStarter/PACStack-web.git"
 	},
 	"license": "MIT",
 	"author": {
