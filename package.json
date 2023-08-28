@@ -10,8 +10,7 @@
 		"pacstack",
 		"pac",
 		"payload",
-		"cloudflare",
-		"astro"
+		"cloudflare"
 	],
 	"homepage": "https://github.com/AstroStarter/PACStack-web#readme",
 	"bugs": {
