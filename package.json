@@ -1,8 +1,8 @@
 {
-	"name": "pac-stack-web",
+	"name": "pac-stac-web",
 	"version": "0.0.1",
 	"private": false,
-	"description": "📄 Starter template for AstroJS on PACStack.",
+	"description": "📄 Starter template for AstroJS on PAC-STAC.",
 	"keywords": [
 		"astro",
 		"starter",
@@ -12,13 +12,13 @@
 		"payload",
 		"cloudflare"
 	],
-	"homepage": "https://github.com/AstroStarter/PACStack-web#readme",
+	"homepage": "https://github.com/AstroStarter/PAC-STAC-Website#readme",
 	"bugs": {
-		"url": "https://github.com/AstroStarter/PACStack-web/issues"
+		"url": "https://github.com/AstroStarter/PAC-STAC-Website/issues"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/AstroStarter/PACStack-web.git"
+		"url": "git+https://github.com/AstroStarter/PAC-STAC-Website.git"
 	},
 	"license": "MIT",
 	"author": {
