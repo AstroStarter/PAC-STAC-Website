@@ -35,6 +35,7 @@ body {
 img {
 	@apply inline-block
 		select-none
+		align-top
 		outline-none;
 }
 
