@@ -12,7 +12,6 @@
 		"payload",
 		"cloudflare"
 	],
-<<<<<<< HEAD
 	"homepage": "https://github.com/AstroStarter/PAC-STAC-Website#readme",
 	"bugs": {
 		"url": "https://github.com/AstroStarter/PAC-STAC-Website/issues"
@@ -20,15 +19,6 @@
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/AstroStarter/PAC-STAC-Website.git"
-=======
-	"homepage": "https://github.com/Playform/AstroStarterTemplate#readme",
-	"bugs": {
-		"url": "https://github.com/Playform/AstroStarterTemplate/issues"
-	},
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/Playform/AstroStarterTemplate.git"
->>>>>>> upstream/main
 	},
 	"license": "MIT",
 	"author": {
@@ -44,14 +34,11 @@
 		"@astrojs/check": "0.2.1",
 		"@astrojs/prefetch": "0.4.1",
 		"@astrojs/sitemap": "3.0.1",
-<<<<<<< HEAD
 		"@swup/body-class-plugin": "3.1.2",
 		"@swup/head-plugin": "2.1.2",
 		"@swup/overlay-theme": "2.0.0",
-		"@swup/preload-plugin": "3.2.5",
+		"@swup/preload-plugin": "3.2.6",
 		"@swup/scroll-plugin": "3.3.1",
-=======
->>>>>>> upstream/main
 		"@tailwindcss/aspect-ratio": "0.4.2",
 		"@tailwindcss/forms": "0.5.6",
 		"@tailwindcss/typography": "0.5.10",
